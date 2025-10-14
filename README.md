@@ -1,3 +1,6 @@
+# NAME:Subikshan P
+# REG NO: 212223240161
+
 # Control-of-Relay-Using-IoT-controller
 
 ##  AIM:
@@ -40,8 +43,15 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 ## PROGRAM:
 
 ## CIRCUIT DIAGRAM:
+<img width="1190" height="777" alt="image" src="https://github.com/user-attachments/assets/28a90b4e-b02e-4f0a-9767-aa8a2ca4342b" />
 
 ## OUTPUT:
+## OFF
+<img width="1177" height="821" alt="Screenshot 2025-09-17 081804" src="https://github.com/user-attachments/assets/ce9490fd-aee9-437e-9788-f070e2faac56" />
+## ON
+<img width="1193" height="832" alt="image" src="https://github.com/user-attachments/assets/202abba7-d164-46e1-8d3c-5017a0e01bdd" />
+
+
 
 ## RESULT:
 
